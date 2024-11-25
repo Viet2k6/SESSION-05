@@ -19,7 +19,6 @@ int main(){
 	  
 	  switch(calc){
 	  	case 1: 
-		  
 		        printf("%.1f + %.1f = %.1f\n", firstNumber, secondNumber, sum);
 		        break;
 	    case 2:
@@ -32,8 +31,8 @@ int main(){
 		        printf("%.1f / %.1f = %.1f\n", firstNumber, secondNumber, divide); 
 				break;
 	    case 5:
-		       printf("Thoat\n");
-               i = 1;       
+		        printf("Thoat\n");
+                i = 1;       
 		  }
 	}
 	  
